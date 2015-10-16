@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: fi.seija.mavenmatkakeskus.signup.SignupControllerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.699 sec - in fi.seija.mavenmatkakeskus.signup.SignupControllerTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.173 sec - in fi.seija.mavenmatkakeskus.signup.SignupControllerTest
