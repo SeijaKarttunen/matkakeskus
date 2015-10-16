@@ -55,7 +55,6 @@ public class BussiTest {
 		bussi.lisaaMatkustaja(lippu);
 		bussi.lisaaMatkustaja(lippu);
 		bussi.lisaaMatkustaja(lippu);
-		// kommitointi automaatibuildausta varten
 	
 	}
 	
