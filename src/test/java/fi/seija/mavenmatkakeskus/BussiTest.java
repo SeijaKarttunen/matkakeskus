@@ -55,8 +55,6 @@ public class BussiTest {
 		bussi.lisaaMatkustaja(lippu);
 		bussi.lisaaMatkustaja(lippu);
 		bussi.lisaaMatkustaja(lippu);
-		
-		// tätä on testi
 	
 	}
 	
